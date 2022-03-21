@@ -1,4 +1,4 @@
-## Hi, I’m @IagoDevJava. My name is Ivan.
+## Hi, I’m _@IagoDevJava_. My name is Ivan.
 
 - 👀 I’m interested in **Java**, **Data Science**, **Math**, **Photography**, **Art**, **Psyho**
 - 🌱 I’m currently learning in _Yandex.Practicum as a Java developer_.
