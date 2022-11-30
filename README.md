@@ -1,9 +1,19 @@
-## Hi, I’m _@IagoDevJava_. My name is Ivan.
+#### Hi, I’m _@IagoDevJava_. My name is Ivan.
 
-- 👀 I’m interested in **Java**, **Data Science**, **Math**, **Photography**, **Art**, **Psyho**
-- 🌱 I’m currently learning in _Yandex.Practicum as a Java developer_.
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me [Telegram](https://t.me/BuddhaSoulDev)
+## Hello.
+## My name is Ivan Egorov, I am a student of the Yandex-Practicum course, specializing in Java developer. I will graduate on March 6, 2023.
+
+I have fully studied Java SE, I understand OOP.
+I studied Spring and consolidate this knowledge in practice. Annotations, dependencies.
+I own Maven and Git.
+I own Junit.
+I work with databases, build ER diagrams and use SQL queries. I create databases for the project. I use PostgreSQL.
+I apply the principles of REST.
+
+Interested in a remote work format.
+TG - https://t.me/BuddhaSoulDev
+
+## Sincerely, Ivan.
 
 <!---
 GorynychJava/GorynychJava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
