@@ -2,12 +2,22 @@
 ### My name is Ivan Egorov.
 I am a student of the Yandex-Practicum course, specializing in Java developer. I will graduate on March 6, 2023.
 
-I have fully studied Java SE, I understand OOP.
-I studied Spring and consolidate this knowledge in practice. Annotations, dependencies.
-I own Maven and Git.
-I own Junit.
-I work with databases, build ER diagrams and use SQL queries. I create databases for the project. I use PostgreSQL.
-I apply the principles of REST.
+Using the stack:
+Java Core, SE,
+Java EE,
+Spring Boot,
+Lombok,
+Json,
+SQL, PostgreSQL,
+Maven,
+unit 5,
+Git.
+
+I have experience designing Restful services, refactoring code.
+Team experience - code review, pull request.
+Basic knowledge of algorithms. Design patterns.
+I know how to bring tasks to the result on my own (Google to help :))
+Experience with Atlassian Jira.
 
 Interested in a remote work format.
 TG - https://t.me/BuddhaSoulDev
