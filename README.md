@@ -9,6 +9,7 @@ Spring Boot,
 Lombok,
 Json,
 SQL, PostgreSQL,
+Docker,
 Maven,
 unit 5,
 Git.
