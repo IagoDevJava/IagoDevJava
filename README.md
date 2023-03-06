@@ -1,6 +1,6 @@
 ## Hello.
 ### My name is Ivan Egorov.
-I am a student of the Yandex-Practicum course, specializing in Java developer. I will graduate on March 6, 2023.
+I am ✨Java developer✨.
 
 Using the stack:
 Java Core, SE,
@@ -11,7 +11,7 @@ Json,
 SQL, PostgreSQL,
 Docker,
 Maven,
-unit 5,
+Junit 5,
 Git.
 
 I have experience designing Restful services, refactoring code.
