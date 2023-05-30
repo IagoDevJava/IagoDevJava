@@ -6,13 +6,15 @@ Using the stack:
 Java Core, SE,
 Java EE,
 Spring Boot,
-Lombok,
-Json,
-SQL, PostgreSQL,
-Docker,
-Maven,
-Junit 5,
-Git.
+Hibernate, 
+Maven, 
+Git, 
+Jenkins,
+PostgreSQL, 
+Docker, 
+JUnit, 
+Mock, 
+Postman.
 
 I have experience designing Restful services, refactoring code.
 Team experience - code review, pull request.
